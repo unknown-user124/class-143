@@ -1,0 +1,39 @@
+.divtag1 {
+    width:100%;
+}
+ #h1heading {
+     float: left;
+     display: inline;
+ }
+  
+ #instructions {
+     
+     display: inline;
+     float: right;
+ }
+
+ .marioimg {
+     width:100%;
+ }
+
+ #footertag {
+     position:fixed;
+     bottom:0;
+     background-color: aquamarine;
+     line-height: 2;
+     margin:0px;
+     width: 100%;
+     text-align: center;
+ }
+
+ .instruction_image {
+     display:inline-block;
+     width:45%;
+ }
+
+ video {
+     background:url('game_console.png');
+     background-position: center;
+     background-size:cover;
+     padding:25px;
+ }
